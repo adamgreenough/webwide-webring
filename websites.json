@@ -1,6 +1,6 @@
 {
   "websites":[
-    { "title": "Webwide Webring", "url": "https://webwide.addy.codes/webring", "rss": null },
+    { "title": "Webwide Webring", "url": "https://webwide.addy.codes/webring.php", "rss": null },
     { "title": "Addy Codes", "url": "https://addy.codes/webrings", "rss": "https://addy.codes/feed/" },
   ],
 }
